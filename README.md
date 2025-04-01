@@ -19,8 +19,7 @@
 ## Ha nincs eredeti Minecraftod:
 1. Szedd le a JAVA 17-et innen: https://github.com/vERKE/PVX-SMP-Season-2/releases/download/release/jdk-17.0.12_windows-x64_bin.exe
 2. Telepítsd fel a JAVA 17-et.
-3. Szedd le innen a testreszabott ULTIMMC klienset: https://we.tl/t-K1lK96a37t
-Ha a fenti link nem lenne jó, akkor jelezd felém Discordon és addig innen le tudod szedni: https://github.com/vERKE/PVX-SMP-Season-2/releases/download/release/PVX_SMP_S2_V200_ULTIMMC.zip
+3. Szedd le innen a testreszabott ULTIMMC klienset: https://we.tl/t-K1lK96a37t - ha ez a link nem lenne jó, akkor jelezd felém Discordon és addig innen le tudod szedni: https://github.com/vERKE/PVX-SMP-Season-2/releases/download/release/PVX_SMP_S2_V200_ULTIMMC.zip
 4. Csomagold ki valahova a ULTIMMC klienst.
 5. Indítsd el a ULTIMMC.EXE fájlal a játékot.
 6. Menj rá a ULTIMMC ablakban, hogy "Settings".
