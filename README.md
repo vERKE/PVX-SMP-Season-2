@@ -2,7 +2,7 @@
 
 
 
-Ha van eredeti Minecraftod:
+## Ha van eredeti Minecraftod:
 1. Szedd le a Modrinthet innen: https://modrinth.com/app
 2. Telepítsd fel a Modrinthet.
 3. Szedd le a modpackot innen: http://verke.subirat.net/PVX_SMP_S2_V200_MODRINTH.mrpack
@@ -12,7 +12,7 @@ Ha van eredeti Minecraftod:
 
 
 
-Ha nincs eredeti Minecraftod:
+## Ha nincs eredeti Minecraftod:
 1. Szedd le a JAVA 17-et innen: https://github.com/vERKE/PVX-SMP-Season-2/releases/download/release/jdk-17.0.12_windows-x64_bin.exe
 2. Telepítsd fel a JAVA 17-et.
 3. Szedd le innen a testreszabott ULTIMMC klienset: https://github.com/vERKE/PVX-SMP-Season-2/releases/download/release/PVX_SMP_S2_V200_ULTIMMC.zip
