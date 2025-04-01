@@ -28,3 +28,4 @@
 9. Jobb fent kattints rá, hogy "Add Local".
 10. Írd be a nevet, amivel szeretnél a szerveren játszani.
 11. Menj rá az ablak alján, hogy close.
+12. Ezek után elindul a játék. Következőre, hogyha megint el akarod indítani a modpackot, akkor csak ki kell választanod a PVX SMP Season 2 v2.0.0-át és rámenned, hogy "Launch Offline".
