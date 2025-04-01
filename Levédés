@@ -1,0 +1,20 @@
+# Levédés:
+A levédésnél összesen 50 chunckot tud egy csapat, vagy játékos levédeni.
+
+Hogyha többen vagytok, akkor érdemes csapatot létrehozni. A csapatban mindenki tud foglalni és törölni foglalt területeket.
+Azért jobb a csapat több játékosnál, mivel nem kell egyesével hozzáadni minden játékost szövetségesként, hanem egyszer elég bevenni a csapatba.
+Fontos, hogy minden tag a csapatban tud foglalni és törölni területet, tehát csak olyanokat hívj meg a csapatodba, akikben megbízol.
+
+Csapatot a
+/ftbteams party create Csapat név
+paranccsal tudsz létrehozni.
+
+Csapatba meghívni másokat a
+/ftbteams party invite Játékos név
+paranccsal tudsz. Ezt a játékosnak el kell fogadnia.
+
+Hogyha még is úgy döntötök, hogy együtt szeretnétek játszani, de mindenki szabadon akar még több területet foglalni, akkor játszhattok úgy is, hogy felveszitek egymást szövetségesnek.
+Szövetségeseket a
+/ftbteams party allies add Játékos név
+paranccsal tudsz felvenni.
+Ők tudnak a területeden bármit csinálni miután szövetségesek, viszont nem tudják törölni a foglalásod.
