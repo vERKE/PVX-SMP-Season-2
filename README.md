@@ -19,15 +19,17 @@
 ## Ha nincs eredeti Minecraftod:
 1. Szedd le a JAVA 17-et innen: https://github.com/vERKE/PVX-SMP-Season-2/releases/download/release/jdk-17.0.12_windows-x64_bin.exe
 2. Telepítsd fel a JAVA 17-et.
-3. Szedd le innen a testreszabott ULTIMMC klienset: https://we.tl/t-K1lK96a37t - ha ez a link nem lenne jó, akkor jelezd felém Discordon és addig innen le tudod szedni: https://github.com/vERKE/PVX-SMP-Season-2/releases/download/release/PVX_SMP_S2_V200_ULTIMMC.zip
+3. Szedd le innen a testreszabott ULTIMMC klienset: https://we.tl/t-K1lK96a37t
+Ha a fenti link nem lenne jó, akkor jelezd felém Discordon és addig innen le tudod szedni: https://github.com/vERKE/PVX-SMP-Season-2/releases/download/release/PVX_SMP_S2_V200_ULTIMMC.zip
 4. Csomagold ki valahova a ULTIMMC klienst.
 5. Indítsd el a ULTIMMC.EXE fájlal a játékot.
 6. Menj rá a ULTIMMC ablakban, hogy "Settings".
 7. Menj a "Java" fülre.
-8. "Maximum Memory Allocation"-t rakd át 6144-re, hogyha csak 8GB ram van a gépedben, ha több van, akkor hagyd úgy.
-9. Menj rá a Close-ra.
-10. Kattints rá a PVX SMP Season 2 v2.0.0-ra, majd menj rá, hogy Launch Offline.
-11. Feldob egy ablakot, hogy csinálj egy felhasználót, menj rá, hogy "Yes".
-12. Jobb fent kattints rá, hogy "Add Local".
-13. Írd be a nevet, amivel szeretnél a szerveren játszani.
-14. Menj rá az ablak alján, hogy close.
+8. A "Memory" részen a "Maximum Memory Allocation"-t rakd át 6144-re, hogyha csak 8GB ram van a gépedben, ha több van, akkor hagyd úgy.
+9. A "Java Runtime" részen menj rá az "Auto-detect..." gombra, majd válaszd ki az egyik 17.0.12-es verziót, majd menj rá, hogy OK.
+10. Menj rá a Close-ra.
+11. Kattints rá a PVX SMP Season 2 v2.0.0-ra, majd menj rá, hogy Launch Offline.
+12. Feldob egy ablakot, hogy csinálj egy felhasználót, menj rá, hogy "Yes".
+13. Jobb fent kattints rá, hogy "Add Local".
+14. Írd be a nevet, amivel szeretnél a szerveren játszani.
+15. Menj rá az ablak alján, hogy close.
