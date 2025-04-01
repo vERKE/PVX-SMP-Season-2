@@ -23,11 +23,9 @@
 Ha a fenti link nem lenne jó, akkor jelezd felém Discordon és addig innen le tudod szedni: https://github.com/vERKE/PVX-SMP-Season-2/releases/download/release/PVX_SMP_S2_V200_ULTIMMC.zip
 4. Csomagold ki valahova a ULTIMMC klienst.
 5. Indítsd el a ULTIMMC.EXE fájlal a játékot.
-6. Felugró ablakban válaszd ki az egyik 17.0.12-es java verziót.
-7. A "Maximum Memory Allocation"-t rakd át 6144-re, hogyha csak 8GB ram van a gépedben, ha több van, akkor hagyd úgy.
-8. Menj rá, hogy "Finish".
-9. Kattints rá a PVX SMP Season 2 v2.0.0-ra, majd menj rá, hogy Launch Offline.
-10. Feldob egy ablakot, hogy csinálj egy felhasználót, menj rá, hogy "Yes".
-11. Jobb fent kattints rá, hogy "Add Local".
-12. Írd be a nevet, amivel szeretnél a szerveren játszani.
-13. Menj rá az ablak alján, hogy close.
+6. Felugró ablakban válaszd ki az egyik 17.0.12-es java verziót. Ezek után a "Maximum Memory Allocation"-t rakd át 6144-re, hogyha csak 8GB ram van a gépedben, ha több van, akkor hagyd úgy. Végül menj rá, hogy "Finish".
+7. Kattints rá a PVX SMP Season 2 v2.0.0-ra, majd menj rá, hogy Launch Offline.
+8. Feldob egy ablakot, hogy csinálj egy felhasználót, menj rá, hogy "Yes".
+9. Jobb fent kattints rá, hogy "Add Local".
+10. Írd be a nevet, amivel szeretnél a szerveren játszani.
+11. Menj rá az ablak alján, hogy close.
