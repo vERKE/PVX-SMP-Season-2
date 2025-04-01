@@ -1,6 +1,6 @@
 # PVX SMP Season 2 Telepítési útmutató:
 
-
+## PVX Discord: https://discord.com/invite/Qsy6TX5YM9
 
 ## Ha van eredeti Minecraftod:
 1. Szedd le a Modrinthet innen: https://modrinth.com/app
