@@ -9,7 +9,7 @@
 ## Ha van eredeti Minecraftod:
 1. Szedd le a Modrinthet innen: https://modrinth.com/app
 2. Telepítsd fel a Modrinthet.
-3. Szedd le a modpackot innen: https://verke.subirat.net/PVX_SMP_S2_V200_MODRINTH.mrpack
+3. Szedd le a modpackot innen: https://verke.subirat.net/PVX_SMP_S2_V210_MODRINTH.mrpack
 4. Mivel feltelepítetted a Modrinthet, így csak kétszer kell kattintanod a modpackra és automatikusan feltelepíti neked a Modrinth launcherben.
 5. Adj több memóriát a modpacknak: Modrinthben bal katt a modpackra, utána jobb fent menj rá a fogaskerékre, majd a "Java and memory" fülre. Ott a "Custom memory allocation" pipáld be és minimum 4 GB ramot adj neki, de inkább 6 GB-t.
 6. Indítsd el a játékot és adj meg egy jelszót, hogyha betöltött a kliens. Ezt a jelszót ne felejtsd el, hogyha újra akarod majd telepíteni a packot.
@@ -19,7 +19,7 @@
 ## Ha nincs eredeti Minecraftod:
 1. Szedd le a JAVA 17-et innen: https://github.com/vERKE/PVX-SMP-Season-2/releases/download/release/jdk-17.0.12_windows-x64_bin.exe
 2. Telepítsd fel a JAVA 17-et.
-3. Szedd le innen a testreszabott ULTIMMC klienset: https://we.tl/t-K1lK96a37t - ha ez a link nem lenne jó, akkor jelezd felém Discordon és addig innen le tudod szedni: https://github.com/vERKE/PVX-SMP-Season-2/releases/download/release/PVX_SMP_S2_V200_ULTIMMC.zip
+3. Szedd le innen a testreszabott ULTIMMC klienset: https://we.tl/t-ORSyoqMnxX - ha ez a link nem lenne jó, akkor jelezd felém Discordon és addig innen le tudod szedni: https://github.com/vERKE/PVX-SMP-Season-2/releases/download/release/PVX_SMP_S2_V210_ULTIMMC.zip
 4. Csomagold ki valahova a ULTIMMC klienst.
 5. Indítsd el a ULTIMMC.EXE fájlal a játékot.
 6. Felugró ablakban válaszd ki az egyik 17.0.12-es java verziót. Ezek után a "Maximum Memory Allocation"-t rakd át 6144-re, hogyha csak 8GB ram van a gépedben, ha több van, akkor hagyd úgy. Végül menj rá, hogy "Finish".
